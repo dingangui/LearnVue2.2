@@ -1,2 +1,3 @@
-# LearnVue2.2
-B站markhub的vueblog学习代码，这是后端Spring Boot的代码
+# vueblog-java
+
+在B站跟着markhub学习springboot+vue的代码，这是后端部分的代码
